@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fcovvb/tripID/issues"
   },
-  "homepage": "https://github.com/fcovvb/tripID#readme"
+  "homepage": "https://github.com/fcovvb/tripID#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
